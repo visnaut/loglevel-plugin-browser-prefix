@@ -1,0 +1,34 @@
+{
+  "name": "loglevel-plugin-browser-prefix",
+  "version": "1.0.0",
+  "description": "loglevel plugin that enables pretty browser log prefixes",
+  "main": "plugin.js",
+  "type": "module",
+  "keywords": [
+    "loglevel",
+    "plugin",
+    "loglevel-plugin",
+    "logging",
+    "format",
+    "color",
+    "gradient",
+    "browser",
+    "console"
+  ],
+  "author": "",
+  "license": "MIT",
+  "peerDependencies": {
+    "loglevel": "^1.8.0"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/visnaut/loglevel-plugin-browser-prefix.git"
+  },
+  "bugs": {
+    "url": "https://github.com/visnaut/loglevel-plugin-browser-prefix/issues"
+  },
+  "homepage": "https://github.com/visnaut/loglevel-plugin-browser-prefix#readme"
+}
